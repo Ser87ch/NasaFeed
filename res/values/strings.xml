@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Nasa Feed</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Title">Ночная Казань</string>
+    <string name="Date">02.10.2012</string>
+    <string name="Text">Hey there where ya goin\', not exactly knowin\', who says you have to call just one place home. He\'s goin\' everywhere, B.J. McKay and his best friend Bear. He just keeps on movin\', ladies keep improvin\', every day is better than the last. New dreams and better scenes, and best of all I don\'t pay property tax. Rollin\' down to Dallas, who\'s providin\' my palace, off to New Orleans or who knows where. Places new and ladies, too, I\'m B.J. McKay and this is my best friend Bear.\nThis is my boss, Jonathan Hart, a self-made millionaire, he\'s quite a guy. This is Mrs H., she\'s gorgeous, she\'s one lady who knows how to take care of herself. By the way, my name is Max. I take care of both of them, which ain\'t easy, \'cause when they met it was MURDER!\nTop Cat! The most effectual Top Cat! Who\'s intellectual close friends get to call him T.C., providing it\'s with dignity. Top Cat! The indisputable leader of the gang. He\'s the boss, he\'s a pip, he\'s the championship. He\'s the most tip top, Top Cat.\nUlysses, Ulysses - Soaring through all the galaxies. In search of Earth, flying in to the night. Ulysses, Ulysses - Fighting evil and tyranny, with all his power, and with all of his might. Ulysses - no-one else can do the things you do. Ulysses - like a bolt of thunder from the blue. Ulysses - always fighting all the evil forces bringing peace and justice to all.\nI never spend much time in school but I taught ladies plenty. It\'s true I hire my body out for pay, hey hey. I\'ve gotten burned over Cheryl Tiegs, blown up for Raquel Welch. But when I end up in the hay it\'s only hay, hey hey. I might jump an open drawbridge, or Tarzan from a vine. \'Cause I\'m the unknown stuntman that makes Eastwood look so fine.</string>
+    <string name="Refresh">Refresh</string>
+    <string name="SetWallpaper">Set Wallpaper</string>
+
+</resources>
